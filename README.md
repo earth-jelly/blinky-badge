@@ -9,10 +9,9 @@ I ultimately decided on the Aha! moment Heidi as my design because the nature of
 
 ## Schematic + PCB
 <img width="1176" height="611" alt="Screenshot 2026-07-01 141634" src="https://github.com/user-attachments/assets/3231752d-22df-4c3a-9e7b-bb1ae0ff495e" />
-<img width="1558" height="792" alt="Screenshot 2026-07-01 143721" src="https://github.com/user-attachments/assets/6db673d7-a553-468b-bd40-d1f2f9e2a57d" />
 <img width="1902" height="997" alt="Screenshot 2026-07-01 143239" src="https://github.com/user-attachments/assets/7d07201c-4f3d-4752-97f5-4ab2c4d2e735" />
 <img width="1918" height="910" alt="Screenshot 2026-07-01 142620" src="https://github.com/user-attachments/assets/3d98ed20-b2db-4cff-8584-03ace3395802" />
-
+<img width="1558" height="792" alt="Screenshot 2026-07-01 143721" src="https://github.com/user-attachments/assets/6db673d7-a553-468b-bd40-d1f2f9e2a57d" />
 
 ## So, what did I learn?
 As a person who have tried making a PCB before, making the schematics and routing the components weren't anything new. However, importing footprints from online library, ordering the PCB, and creating a BOM were something that was completely new to me and that I had to learn (albeit, it took a little too long to do).
